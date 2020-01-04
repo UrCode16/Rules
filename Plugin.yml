@@ -2,4 +2,4 @@ name: MyPlugin
 version: 1.0.0
 author: SuperBaronDEV
 api: 3.11.1
-main: superbarondev\myplugin\MyPlugin
+main: SuperBaronDEV\myplugin\MyPlugin
