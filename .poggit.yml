@@ -1,1 +1,10 @@
-
+---
+branches:
+- PocketMine-MP
+- api-4.0.0
+- Generators
+projects:
+  Pravidla:
+    path: Pravidla
+    icon: icon.png
+...
