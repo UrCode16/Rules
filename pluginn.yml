@@ -1,0 +1,5 @@
+name: Pravidla
+version: 0.0.1
+author: SuperBaronDEV
+api: 3.11.1
+main: SuperBaronDEV\pravidla\Pravidla
