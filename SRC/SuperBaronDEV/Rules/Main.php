@@ -1,10 +1,10 @@
 <?php
-namespace SuperBaronDEV\pravidla; 
+namespace SuperBaronDEV\rules; 
 use pocketmine\plugin\PluginBase; 
-class Pravidla expands PluginBase{
+class Rules expands PluginBase{
 public function onCommand(CommandSender $sender, Command $command, $label, array $args){
     $commandName = $command->getName();
-    if($commandName === "pravidla"){
+    if($commandName === "rules"){
       $sender->sendMessage("§ePravidla jsou-");
       return false;
     }
