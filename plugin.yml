@@ -5,7 +5,7 @@ author: SuperBaronDEV
 api: 3.11.1
 main: SuperBaronDEV/Rules/Main
   commands:
-    rules:
-    description: watch the rules!
-    usage: /rules
+      rules:
+      description: watch the rules!
+      usage: /rules
 ...
