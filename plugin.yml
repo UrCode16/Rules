@@ -2,7 +2,7 @@ name: Rules
 version: 1.1.0
 author: SuperBaronDEV
 api: 3.11.1
-main: Rules\Rules
+main: SuperBaronDEV\Rules\Rules
   commands:
       rules:
       description: watch the rules!
