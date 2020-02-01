@@ -1,4 +1,3 @@
----
 name: Rules
 version: 1.0.0
 author: SuperBaronDEV
@@ -8,4 +7,3 @@ main: SuperBaronDEV\rules\Rules
       rules:
       description: watch the rules!
       usage: /rules
-...
