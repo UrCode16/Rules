@@ -1,9 +1,9 @@
 name: Rules
 version: 1.1.2
 author: SuperBaronDEV
-api: 3.11.1
-main: SuperBaronDEV\Rules
+api: [3.11.1]
+main: SuperBaronDEV\Rules\Main
   commands:
       rules:
-      description: watch the rules!
-      usage: /rules
+        description: watch the rules!
+        usage: /rules
