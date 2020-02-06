@@ -8,8 +8,8 @@ public function onCommand(CommandSender $sender, Command $command, $label, array
     $commandName = $command->getName();
     if($commandName === "rules"){
       $sender->sendMessage("§eRules is§6-§71.don't spam    2.don't grief    §73.don't write bad words    4.don't ask for op");
-      return false;
+      return true;
     }
-    return false;
+    return true;
   }
 }
