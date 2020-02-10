@@ -2,5 +2,7 @@
 build-by-default: true
 branches:
 - PockeMine-MP
-projects: []
+projects:
+  Rules:
+    path: ""
 ...
